@@ -4,6 +4,6 @@
 2. 根据自己数据库服务器的实际参数配置applicationContext.xml中的相应参数;
    a）DB Host
    b）DB Port
-   c）DB Username
+   c）DB Username11111
    d）DB Password
 3. 完成配置之后能可以运行spring程序;

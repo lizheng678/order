@@ -4,7 +4,7 @@
 	<groupId>com.lesson</groupId>
 	<artifactId>order</artifactId>
 	<packaging>war</packaging>
-	<version>1.0</version>
+	<version>1.0</version>111
 	<name>order</name>
     <properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

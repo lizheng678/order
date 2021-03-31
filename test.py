@@ -1,3 +1,3 @@
 def print():
-    a = 1
+    b = 1
     return "hello coding!"
